@@ -19,7 +19,6 @@ variable "environment" {
 }
 
 variable "network_hub_range" {
-  default = "10.0.0.0/16"
   type = string
 }
 
